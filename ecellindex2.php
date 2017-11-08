@@ -694,7 +694,6 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 					<a style="color:inherit; text-decoration:none !important"  href="#">E-weekend</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">Startup Weekend</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">Summer in a startup</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">Testinomial</a><br><br>
 				</span>
 				</strong>
       </div>
