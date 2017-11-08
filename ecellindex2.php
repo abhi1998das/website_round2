@@ -23,7 +23,12 @@
 <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
       <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+	<style>
+		body {
+    			max-width: 100%;	
+    			overflow-x: hidden;
+			}
+	</style>
     </head>
 
 <body>
