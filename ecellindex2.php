@@ -14,7 +14,7 @@
       <link rel="stylesheet" type="text/css" href="assets/contactcss.css">
 
       <link rel="stylesheet" type="text/css" href="assets/styles.css">
-      <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Bowlby+One+SC|Changa+One|Neuton|Archivo+Black" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Bowlby+One+SC|Changa+One|Neuton|Archivo+Black|Scada|Changa+One" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="assets/head.css">
 
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -23,12 +23,15 @@
 <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
       <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<style>
-		body {
-    			max-width: 100%;	
-    			overflow-x: hidden;
-			}
-	</style>
+
+
+      <style>
+ 		body {
+   			max-width: 100%;	
+     			overflow-x: hidden;
+ 			}
+ 	</style>
+
     </head>
 
 <body>
@@ -74,8 +77,17 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active" id="topthree" style="color:white">
-      <img src="http://icloudpicture.com/wp-content/uploads/2016/07/Batman-Wallpaper.jpg" style="width:100%;">
+    
+    <img src="http://icloudpicture.com/wp-content/uploads/2016/07/Batman-Wallpaper.jpg" style="width:100%;">
+    <div class="header-text" style="color:white">
+    <div class="col-md-12 text-center">
+        <h1>
+         <strong>Jadavpur University E-Cell</strong>
+        </h1>
+        
     </div>
+</div><!-- /header-text -->  
+  </div>
 
     <div class="item" id="toptwo" style="color:white">
       <img src="https://www.pixelstalk.net/wp-content/uploads/2016/03/goodwp.com_16580.jpg" alt="Chicago" style="width:100%;">
@@ -91,7 +103,7 @@
                           </h3>
                           <br>
                           <div class="">
-                              <button class="btn btn-theme btn-sm btn-min-block" href="#">More</button></div>
+                              <button class="btn btn-primary" href="#">More</button></div>
                       </div>
                   </div><!-- /header-text -->
     </div>
@@ -192,20 +204,22 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
   
     <div class="section" style="text-align: center" id="upcoming">
 
-    <h1 style="color: white ;font-family: 'Archivo Black', sans-serif"> UPCOMING EVENTS </h1>
+    <h1 style="color: white ;font-family: 'Changa One', cursive;
+"> UPCOMING EVENTS </h1>
 </div>
 
 
-<div id="test" style="color: white"> 
-<img src="https://www.hultprizesix.com/images/logo-stack.png"  id="recentimg" />
+<div class="upcominginfo" id="test" style="color: white;font-family: 'Changa One', cursive;"> 
+ <h2> Hult Prize 2017 at JU</h2>
 
 </div>
   
 
 
-<div class="section" style="text-align: center" id="upcoming" >
+<div class="section" style="text-align: center" id="pasts" >
 
-    <h1 style="color: white ;font-family: 'Archivo Black', sans-serif"> PAST EVENTS </h1>
+    <h1 style="color: white ;font-family: 'Changa One', cursive;
+"> PAST EVENTS </h1>
 
 <ul id="hexgrid"> 
       <li class="hex">
@@ -654,7 +668,7 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 			</div>
 			<div class="col-sm-2">
 				<span>
-					<h2>Navigate</h2>
+					<h3>Navigate</h3>
 				</span>
 				<br>
 				<br>
@@ -670,7 +684,7 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
       </div>
       <div class="col-sm-2">
 				<span>
-					<h2>Initiatives</h2>
+					<h3>Initiatives</h3>
 				</span>
 				<br>
 				<br>
@@ -685,9 +699,9 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				</strong>
       </div>
       
-			<div class="col-sm-3" style="text-align:center">
+			<div class="col-sm-3" >
 									<span>
-					<h2>Social Media</h2>
+					<h3>Social Media</h3>
 				</span>
 				<br>
 				<br>
@@ -1009,7 +1023,13 @@ $(document).ready(function() {
 });
 </script>
 
-
+<script>
+ window.onload=setTimeout(MadeByTheDRAgon, 10000);
+ function MadeByTheDRAgon() {
+     console.log("                                        ,   ,\n                                        $,  $,     ,\n                                        'ss.$ss. .s'\n                                ,     .ss$$$$$$$$$$s,\n                                $. s$$$$$$$$$$$$$$`$$Ss\n                                '$$$$$$$$$$$$$$$$$$o$$$       ,\n                               s$$$$$$$$$$$$$$$$$$$$$$$$s,  ,s\n                              s$$$$$$$$$'$$$$$$''''$$$$$$'$$$$$,\n                              s$$$$$$$$$$s''$$$$ssssss'$$$$$$$$'\n                             s$$$$$$$$$$'         `'''ss'$'$s''\n                             s$$$$$$$$$$,              `'''''$  .s$$s\n                             s$$$$$$$$$$$$s,...               `s$$'  `\n                         `ssss$$$$$$$$$$$$$$$$$$$$####s.     .$$'$.   , s-\n                           `''''$$$$$$$$$$$$$$$$$$$$#####$$$$$$'     $.$'\n                                 '$$$$$$$$$$$$$$$$$$$$$####s''     .$$$|\n                                  '$$$$$$$$$$$$$$$$$$$$$$$$##s    .$$' $\n                                   $$''$$$$$$$$$$$$$$$$$$$$$$$$$$$$$'   `\n                                  $$'  '$'$$$$$$$$$$$$$$$$$$$$S'''''\n                             ,   ,'     '  $$$$$$$$$$$$$$$$####s\n                             $.          .s$$$$$$$$$$$$$$$$$####'\n                 ,           '$s.   ..ssS$$$$$$$$$$$$$$$$$$$####'\n                 $           .$$$S$$$$$$$$$$$$$$$$$$$$$$$$#####'\n                 Ss     ..sS$$$$$$$$$$$$$$$$$$$$$$$$$$$######''\n                  '$$sS$$$$$$$$$$$$$$$$$$$$$$$$$$$########'\n           ,      s$$$$$$$$$$$$$$$$$$$$$$$$#########'''\n           $    s$$$$$$$$$$$$$$$$$$$$$#######'''      s'         ,\n           $$..$$$$$$$$$$$$$$$$$$######''       ....,$$....    ,$\n            '$$$$$$$$$$$$$$$######'' ,     .sS$$$$$$$$$$$$$$$$s$$\n              $$$$$$$$$$$$#####'     $, .s$$$$$$$$$$$$$$$$$$$$$$$$s.\n   )          $$$$$$$$$$$#####'      `$$$$$$$$$###########$$$$$$$$$$$.\n  ((          $$$$$$$$$$$#####       $$$$$$$$###'       '####$$$$$$$$$$\n  ) \         $$$$$$$$$$$$####.     $$$$$$###'             '###$$$$$$$$$   s'\n (   )        $$$$$$$$$$$$$####.   $$$$$###'                ####$$$$$$$$s$$'\n )  ( (       $$'$$$$$$$$$$$#####.$$$$$###' -The DRAgon    .###$$$$$$$$$$'\n (  )  )   _,$'   $$$$$$$$$$$$######.$$##'                .###$$$$$$$$$$\n ) (  ( \.         '$$$$$$$$$$$$$#######,,,.          ..####$$$$$$$$$$$'\n(   )$ )  )        ,$$$$$$$$$$$$$$$$$$####################$$$$$$$$$$$'\n(   ($$  ( \     _sS'  `'$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$S$$,\n )  )$$$s ) )  .      .   `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$''  `$$\n  (   $$$Ss/  .$,    .$,,s$$$$$$##S$$$$$$$$$$$$$$$$$$$$$$$$S''        '\n    \)_$$$$$$$$$$$$$$$$$$$$$$$##'  $$        `$$.        `$$.\n        `'S$$$$$$$$$$$$$$$$$#'      $          `$          `$\n            `''''''''''''''         '           '           '\n");
+ 	console.log("The theme for JU ECell is created by Daipayan Mukherjee, Abhigyan Das, Rohit Chattopadhyay as a project for free. If you do wish to implement any stuff from the theme then give due credit to the developers"); 
+ }
+  </script>
 
 
 
