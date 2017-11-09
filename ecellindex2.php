@@ -541,7 +541,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
 	<div class="row">
 		<div class="col-md-12">
 			<div class="carousel slide" data-ride="carousel" id="quote-carousel">
-				<ol class="carousel-indicators" id="car-ind">
+				<ol class="carousel-indicators" >
 					<li data-target="#quote-carousel" data-slide-to="0" class="active">
 					<img src="assets/images/s.jpg" class="img-responsive">
 					
