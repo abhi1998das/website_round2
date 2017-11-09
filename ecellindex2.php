@@ -8,14 +8,14 @@
       content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
       <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
       <link rel="stlyesheet"  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-      <link rel="stylesheet" type="text/css" href="assets/styles.css?NoCache">
-      <link rel="stylesheet" type="text/css" href="assets/modalForm.css?NoCache">
+      <link rel="stylesheet" type="text/css" href="assets/styles.css">
+      <link rel="stylesheet" type="text/css" href="assets/modalForm.css">
 
-      <link rel="stylesheet" type="text/css" href="assets/contactcss.css?NoCache">
+      <link rel="stylesheet" type="text/css" href="assets/contactcss.css">
 
-      <link rel="stylesheet" type="text/css" href="assets/styles.css?NoCache">
+      <link rel="stylesheet" type="text/css" href="assets/styles.css">
       <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Bowlby+One+SC|Changa+One|Neuton|Archivo+Black|Scada|Changa+One" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="assets/head.css?NoCache">
+      <link rel="stylesheet" type="text/css" href="assets/head.css">
 
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
       
@@ -364,6 +364,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
 <div class="container-contact">
  
   <div class="container-form">
+  <div>
   <form>
   <h1> Contact Us </h1>
     <ul class="flex-outer">
@@ -393,6 +394,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
       </li>
     </ul>
   </form>
+  </div>
   </div>
   
   <div class="container-map">
@@ -655,9 +657,8 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				<hr>
 				<div id="footer-info" style="font-family: "Cardo", serif">
 					<span id="footer-info">
-						Jadavpur University<br>
-						Kolkata, WB<br>
-						India
+						Jadavpur University Salt Lake Campus<br>
+						Kolkata, West Bengal
 					</span>
 					<br><br><br>
 					<span style="padding-top:10px">
