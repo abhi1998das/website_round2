@@ -788,8 +788,8 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				<hr>
 				<div id="footer-info" style="font-family: "Cardo", serif">
 					<span id="footer-info">
-						Jadavpur University Salt Lake Campus<br>
-						Kolkata, West Bengal
+						Jadavpur University<br>
+						Kolkata, IN
 					</span>
 					<br><br><br>
 					<span style="padding-top:10px">
@@ -827,7 +827,6 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 					<a style="color:inherit; text-decoration:none !important"  href="#">E-weekend</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">Startup Weekend</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">Summer in a startup</a><br><br>
-					<a style="color:inherit; text-decoration:none !important"  href="#">Testinomial</a><br><br>
 				</span>
 				</strong>
       </div>
@@ -857,6 +856,7 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 			font-size:20px;
 			color: inherit;
 			text-decoration:none !important;
+			padding-left:  !important;
 		}
 		
 		.fa-facebook:hover {
