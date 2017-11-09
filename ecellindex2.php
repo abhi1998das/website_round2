@@ -229,7 +229,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://www.idolator.com/wp-content/uploads/sites/10/2013/05/13/daft-punk-random-access-memories.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -238,7 +238,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="hult-event.jpg" alt="" />
-            <h1>Hult Prize 2016</h1>
+            <h3>Hult Prize 2016</h3>
             <p>JU E-Cell hosted Hult Prize 2016 on campus.
               Team Hope emerged as winers and went on to the national finals
             </p>
@@ -249,7 +249,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://pi.tedcdn.com/r/tedideas.files.wordpress.com/2017/03/frugal_innovation.png" alt="" />
-            <h1>Hackathon</h1>
+            <h3>Hackathon</h3>
             <p>A Hackathon organised by Facebook Dev Circles and JUB E-Cell</p>
           </a>
         </div>
@@ -258,7 +258,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/hult-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -267,7 +267,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://pi.tedcdn.com/r/tedideas.files.wordpress.com/2017/03/frugal_innovation.png" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -276,7 +276,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/hult-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -285,7 +285,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/abc-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -294,7 +294,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://pi.tedcdn.com/r/tedideas.files.wordpress.com/2017/03/frugal_innovation.png" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -303,7 +303,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/abc-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -536,7 +536,8 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
 		
 		
 		
-<div class="container section">
+<div class="container section" style="text-align: center">
+<h1 style="font-family: 'Changa One', cursive;"><strong> TESTIMONIALS</h1>
 	<div class="row">
 		<div class="col-md-12">
 			<div class="carousel slide" data-ride="carousel" id="quote-carousel">
