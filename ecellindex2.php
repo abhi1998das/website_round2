@@ -857,7 +857,7 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 			font-size:20px;
 			color: inherit;
 			text-decoration:none !important;
-			padding-left: 0 !important;
+			padding-left:0  !important;
 		}
 		
 		.fa-facebook:hover {
