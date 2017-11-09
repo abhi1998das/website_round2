@@ -28,22 +28,28 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
 </script>
 <style>
 .jssorl-009-spin img{animation-name:jssorl-009-spin;animation-duration:1.6s;animation-iteration-count:infinite;animation-timing-function:linear}@keyframes jssorl-009-spin{from{transform:rotate(0);}to{transform:rotate(360deg);}}.jssora051{display:block;position:absolute;cursor:pointer}.jssora051 .a{fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10}.jssora051:hover{opacity:.8}.jssora051.jssora051dn{opacity:.5}.jssora051.jssora051ds{opacity:.3;pointer-events:none}.jssort111 .p{position:absolute;top:0;left:0;width:200px;height:100px;background-color:#000}.jssort111 .p img{position:absolute;top:0;left:0;width:100%;height:100%}.jssort111 .t{position:absolute;top:0;left:0;width:100%;height:100%;border:none;opacity:.45}.jssort111 .p:hover .t{opacity:.8}.jssort111 .pav .t,.jssort111 .pdn .t,.jssort111 .p:hover.pdn .t{opacity:1}.jssort111 .ti{position:absolute;bottom:0;left:0;width:100%;height:28px;line-height:28px;text-align:center;font-size:12px;color:#fff;background-color:rgba(0,0,0,.3)}.jssort111 .pav .ti,.jssort111 .pdn .ti,.jssort111 .p:hover.pdn .ti{color:#000;background-color:rgba(255,255,255,.6)}
+
  		body {
    			max-width: 100%;	
      			overflow-x: hidden;
  			}
  	</style>
+
     </head>
+
 <body>
 <header class="main_h">
+
     <div class="roww">
         <a class="logo" href="#"><img src="assets/images/main_logo.png"  style="height: 40px"/>
       </a>
+
         <div class="mobile-toggle">
             <span></span>
             <span></span>
             <span></span>
         </div>
+
         <nav>
             <ul>
                 <li><p href="#">ABOUT</p></li>
@@ -52,11 +58,17 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
                 <li><p href="#">APPLY</p></li>
             </ul>
         </nav>
+
     </div> 
+
 </header>
     
+
+
+
 <div class="page">
 <div class="container">
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -64,6 +76,7 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
+
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active" id="topthree" style="color:white">
@@ -78,6 +91,7 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
     </div>
 </div><!-- /header-text -->  
   </div>
+
     <div class="item" id="toptwo" style="color:white">
       <img src="https://www.pixelstalk.net/wp-content/uploads/2016/03/goodwp.com_16580.jpg" alt="Chicago" style="width:100%;">
       
@@ -117,6 +131,7 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
     
     </div>
   </div>
+
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
@@ -128,6 +143,7 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
   </a>
 </div>
 </div>
+
 <div class='paget vision' style="text-align:center">
     
    
@@ -145,6 +161,8 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
 </p>
 </div>
   </div>
+
+
     <div class='paget' style="background-color: #181A1C !important">
     
    
@@ -159,6 +177,8 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         </div>
     </div>
     
+
+
     <div class='sectiont featuret-2'>
     <div class="uppertest hvr-ripple-out"><i class="fa fa-users fa-3x" aria-hidden="true"></i></div>
     <div>
@@ -180,25 +200,36 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
   
   </div>
   </div>
+
+
   
+
   
     <div class="section" style="text-align: center" id="upcoming">
+
     <h1 style="color: white ;font-family: 'Changa One', cursive;
 "> UPCOMING EVENTS </h1>
 </div>
+
+
 <div class="upcominginfo" id="test" style="color: white;font-family: 'Changa One', cursive;"> 
  <h2> Hult Prize 2017 at JU</h2>
+
 </div>
   
+
+
 <div class="section" style="text-align: center" id="pasts" >
+
     <h1 style="color: white ;font-family: 'Changa One', cursive;
 "> PAST EVENTS </h1>
+
 <ul id="hexgrid"> 
       <li class="hex">
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://www.idolator.com/wp-content/uploads/sites/10/2013/05/13/daft-punk-random-access-memories.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -207,7 +238,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="hult-event.jpg" alt="" />
-            <h1>Hult Prize 2016</h1>
+            <h3>Hult Prize 2016</h3>
             <p>JU E-Cell hosted Hult Prize 2016 on campus.
               Team Hope emerged as winers and went on to the national finals
             </p>
@@ -218,7 +249,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://pi.tedcdn.com/r/tedideas.files.wordpress.com/2017/03/frugal_innovation.png" alt="" />
-            <h1>Hackathon</h1>
+            <h3>Hackathon</h3>
             <p>A Hackathon organised by Facebook Dev Circles and JUB E-Cell</p>
           </a>
         </div>
@@ -227,7 +258,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/hult-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -236,7 +267,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://pi.tedcdn.com/r/tedideas.files.wordpress.com/2017/03/frugal_innovation.png" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -245,7 +276,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/hult-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -254,7 +285,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/abc-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -263,7 +294,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="https://pi.tedcdn.com/r/tedideas.files.wordpress.com/2017/03/frugal_innovation.png" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
@@ -272,13 +303,18 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
         <div class="hexIn">
           <a class="hexLink" href="#">
             <img src="assets/images/abc-event.jpg" alt="" />
-            <h1>This is a title</h1>
+            <h3>This is a title</h3>
             <p>Some sample text about the article this hexagon leads to</p>
           </a>
         </div>
       </li>
+
+
+
     </ul>
 </div>
+
+
 <div class='application-container' id="daaamn">
 <div class='application'>
   <div id='about' class="hideme"><h1 style="  text-shadow: 0 1px 0 #ccc,
@@ -297,9 +333,13 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
   <p >
   An Entrepreneurship Development Cell has been created as a joint initiative of university students and the Business Incubation Centre, Jadavpur University, to nurture and inspire the creative minds of the students in the university by providing them the opportunities to showcase their ideas and helping them in turning their ideas into entrepreneurial ventures. The initiative to form an Entrepreneurship Development Cell started in 2016. The Cell was formed on 20th July, 2016 through a workshop held in Salt Lake Campus in presence of Prof. Suranjan Das, Vice Chancellor, Jadavpur University, Prof. Asis Mazumdar, Member Secretary, Business Incubation Centre (MSME), Jadavpur University, several other distinguished faculty members and officers of the university and other well-known personalities in the start-up community such as Mr. Aloke Mookherjea, Former Chairman, Confederation of Indian Industry (ER) and Mr. Ravi Ranjan, Sr. Associate, NASSCOM 10,000 Start-ups. 
 </p>
+
+
     </div>
+
   <div class='apply'><h1  style="font-family: 'Archivo Black', sans-serif
 ">APPLY</h1>
+
   <div class="application-buttons">
   <button type="button" class="btn btn-info btn-lg hvr-float-shadow" data-toggle="modal" data-target="#Coordinator-Modal">As Coordinator</button>
 <button  type="button" class="btn btn-info btn-lg hvr-float-shadow" data-toggle="modal" data-target="#Member-Modal">As Member</button>
@@ -307,6 +347,7 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
 </div>
 </div>
 </div>
+
 </div>
 <div class="counter-section" >
 <div>
@@ -320,6 +361,9 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
    <div> <span id="counter" class="counter-value" data-count="5" style="font-size: 45px">0</span><h3>Events</h3> </div>
 </div>
 </div>
+
+
+
 <div class="container-contact">
  
   <div class="container-form">
@@ -360,8 +404,11 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
     <h1>FIND US HERE </h1>
     
     <div id="map" style="width: 100%" ></div>
+
   </div>
 </div>
+
+
 <div class="container section">
 	<div class="row">
 		<div class="col-md-12" id="home-gallery" style="text-align:center">
@@ -481,13 +528,16 @@ life in our country. At E-Cell, we try to realise our vision by developing the e
 </div>
 </div>
 <script type="text/javascript">jssor_1_slider_init();</script>
+
 		</div>
 		</div>
 		</div>
+
 		
 		
 		
-<div class="container section">
+<div class="container section" style="text-align: center">
+<h1 style="font-family: 'Changa One', cursive;"><strong> TESTIMONIALS</h1>
 	<div class="row">
 		<div class="col-md-12">
 			<div class="carousel slide" data-ride="carousel" id="quote-carousel">
@@ -560,6 +610,25 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
   
   
   </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
          <!-- Modal content for coordinator-->
          <div id="modal-form" class="row" >
          <div class="modal fade" id="Coordinator-Modal" role="dialog" class="col-xs-12">
@@ -713,6 +782,7 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
       </div>
 	<!-- Modal content for member ends-->
 	<!-- Footer content for member begins-->		
+
 	<div id="footer" class="container" style="background-color:#1f2930 ; width:100%">
 			<div class="col-sm-4">
 				<span><img src="http://juecell.in/hult/wp-content/uploads/2017/10/e-cell-footer_logo-2-273x65.png"  style="margin-top:20px"></span>
@@ -787,7 +857,7 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 			font-size:20px;
 			color: inherit;
 			text-decoration:none !important;
-			padding-left: 0 !important;
+			padding-left:  !important;
 		}
 		
 		.fa-facebook:hover {
@@ -813,8 +883,26 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 		</style>
 	<!-- Footer content for member ends-->			
 	  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;"><span></span></a>
+
 <script type="text/javascript">
+
 $(window).load(function() {
                 function showhead(){
                     $('.headingz').animate({
@@ -826,15 +914,19 @@ $(window).load(function() {
                 
             });
 </script>
+
+
 <script type="text/javascript">
 // Sticky Header
 $(window).scroll(function() {
+
     if ($(window).scrollTop() > 100) {
         $('.main_h').addClass('sticky');
     } else {
         $('.main_h').removeClass('sticky');
     }
 });
+
 // Mobile Navigation
 $('.mobile-toggle').click(function() {
     if ($('.main_h').hasClass('open-nav')) {
@@ -843,12 +935,14 @@ $('.mobile-toggle').click(function() {
         $('.main_h').addClass('open-nav');
     }
 });
+
 $('.main_h li a').click(function() {
     if ($('.main_h').hasClass('open-nav')) {
         $('.navigation').removeClass('open-nav');
         $('.main_h').removeClass('open-nav');
     }
 });
+
 $('nav a').click(function(event) {
     var id = $(this).attr("href");
     var offset = 70;
@@ -858,7 +952,12 @@ $('nav a').click(function(event) {
     }, 500);
     event.preventDefault();
 });
+
 </script>
+
+
+
+
 <script type='text/javascript'>
 		$(document).ready(function(){ 
 			$(window).scroll(function(){ 
@@ -875,8 +974,10 @@ $('nav a').click(function(event) {
 		});
   </script>
   
+
   <script type="text/javascript">
 $(document).ready(function(){
+
   var a = 0;
 $(window).scroll(function() {
   var oTop = $('#counter').offset().top - window.innerHeight;
@@ -889,7 +990,9 @@ $(window).scroll(function() {
       }).animate({
           countNum: countTo
         },
+
         {
+
           duration: 2000,
           easing: 'swing',
           step: function() {
@@ -899,13 +1002,18 @@ $(window).scroll(function() {
             $this.text(this.countNum);
             
           }
+
         });
     });
     a = 1;
   }
+
 });
 });
   </script>
+
+
+
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="slick/slick.min.js"></script>
@@ -975,9 +1083,12 @@ $(window).scroll(function() {
 	
         </script>
         
+
         <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDRiDrm36Kcz2OWvZgnwFAB1-Lk9SIQOlY&callback=initMap">
     </script>
+
+
 	   <script>
       function initMap() {
         var uluru = {lat:22.4986, lng: 88.3454};
@@ -991,6 +1102,8 @@ $(window).scroll(function() {
         });
       }
     </script>
+
+
 <script>
 $(document).ready(function() {
     
@@ -1016,6 +1129,8 @@ $(document).ready(function() {
     
 });
 </script>
+
+
 <script>
 $(document).ready(function() {
     
@@ -1041,6 +1156,7 @@ $(document).ready(function() {
     
 });
 </script>
+
 <script>
  window.onload=setTimeout(MadeByTheDRAgon, 10000);
  function MadeByTheDRAgon() {
@@ -1048,5 +1164,8 @@ $(document).ready(function() {
  	console.log("The theme for JU ECell is created by Daipayan Mukherjee, Abhigyan Das, Rohit Chattopadhyay as a project for free. If you do wish to implement any stuff from the theme then give due credit to the developers"); 
  }
   </script>
+
+
+
 </body>
 </html>
