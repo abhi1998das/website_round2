@@ -228,7 +228,7 @@ body{
             transform: rotate3d(0,0,0,0deg);
   }
   
-  .hex h1, .hex p {
+  .hex h3, .hex p {
     width: 100%;
     padding: 5%;
     box-sizing:border-box;
@@ -238,7 +238,7 @@ body{
     -webkit-transition:  -webkit-transform .2s ease-out, opacity .3s ease-out;
             transition:          transform .2s ease-out, opacity .3s ease-out;
   }
-  .hex h1 {
+  .hex h3 {
     bottom: 50%;
     padding-top:50%;
     font-size: 1.5em;
@@ -247,7 +247,7 @@ body{
         -ms-transform:translate3d(0,-100%,0);
             transform:translate3d(0,-100%,0);
   }
-  .hex h1::after {
+  .hex h3::after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -266,7 +266,7 @@ body{
   
   
   /*** HOVER EFFECT  **********************************************************************/
-  .hexLink:hover h1, .hexLink:focus h1,
+  .hexLink:hover h3, .hexLink:focus h3,
   .hexLink:hover p, .hexLink:focus p{
     -webkit-transform:translate3d(0,-10%,0);
         -ms-transform:translate3d(0,-10%,0);
@@ -1007,7 +1007,7 @@ a{
     align-items: center;
     text-align: center;
     background-image: url('http://juecell.in/images/graph2.gif');
-    background-size: 100% 100%;
+    background-size: 100%;
     width: 100%;
     height: 100% ;
   }
@@ -1061,6 +1061,13 @@ a{
     }
     .countersz .counter-value{
       font-size: 24px !important;
+    }
+  }
+
+
+  @media only screen and (max-width: 372px){
+    .hexLink p{
+      font-size: 14px !important;
     }
   }
   #map{
