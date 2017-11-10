@@ -133,14 +133,27 @@ new(function(){});var d={l:function(a){return a},Be:function(a){return-a*(a-2)},
   </div>
 
   <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
+  <a class="left carousel-control slide_fade" href="#myCarousel" data-slide="prev" onmouseover="slide_on_hover(0,1)" onmouseout="slide_on_hover(0,0)">
+    <span class="glyphicon glyphicon-chevron-left" id="slide_on_hover_0" style="display:none" ></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#myCarousel" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
+  <a class="right carousel-control slide_fade" href="#myCarousel" data-slide="next"  onmouseover="slide_on_hover(1,1)" onmouseout="slide_on_hover(1,0)">
+    <span class="glyphicon glyphicon-chevron-right"  id="slide_on_hover_1" style="display:none"></span>
     <span class="sr-only">Next</span>
   </a>
+
+  <script>
+	function slide_on_hover(dir,fState){
+		var target= "slide_on_hover_" + dir;
+		if(fState==1){
+			document.getElementById(target).style.display = "inline";
+		}
+
+		else if(fState==0){
+			document.getElementById(target).style["display"] = "none";
+		}		
+	}
+  </script>
 </div>
 </div>
 
